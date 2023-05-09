@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  h1{
+    padding-left: 862px;
+    margin-top: 100px;
+  }
+  form {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 400px;
+    margin-left: 703px;
+    margin-top: 76px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    margin-right: 10px;
+  }
+  
+  input[type="text"] {
+    width: 250px;
+  }
+  
+  #posts {
+    margin-top: 20px;
+  }
