@@ -24,4 +24,5 @@ function displayPosts() {
   }
   
   document.getElementById("posts").innerHTML = Maker;
+  // to compensate something from html in js //
 }
